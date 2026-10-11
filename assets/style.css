@@ -134,3 +134,6 @@ section { padding: 48px 0; }
 .bundle-card p { margin: 0; color: var(--ink-soft); }
 .bundle-link { font-weight: 800; color: var(--ember); }
 @media (max-width: 640px) { .bundle-card { grid-template-columns: 1fr; } }
+/* about this pack (site_seo.py) */
+.about-pack { padding: 44px 0 56px; }
+.about-pack p { color: var(--ink-soft); font-size: 1.08rem; }
